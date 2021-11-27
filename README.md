@@ -1,5 +1,6 @@
 # EtherMessage 💬
 A decentralised web3 app that allows users to publicly send messages through the Ethereum blockchain.
+Smart Contract is deployed on the Rinkeby Testnet.
 Technology used: React, JS, CSS, Solidity.
 
 Built with the help of buildspace.so
