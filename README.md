@@ -1,9 +1,10 @@
 # EtherMessage 💬
 A decentralised web3 app that allows users to publicly send messages through the Ethereum blockchain.
-Smart Contract is deployed on the Rinkeby Testnet.
-Technology used: React, JS, CSS, Solidity.
+<br/>Smart Contract is deployed on the Rinkeby Testnet.
+<br/>Built with the help of buildspace.so
 
-Built with the help of buildspace.so
+# Technology
+Technology used: React, JS, CSS, Solidity.
 
 # Deployment
 Deployed at https://waveportal-starter-project.matthewyoung18.repl.co/
